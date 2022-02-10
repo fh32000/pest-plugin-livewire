@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.2.1 - 2022-02-10
+
+- Delete accidental dependency
+
 ## 1.2.0 - 2022-02-10
 
 - Add support for validating nested properties (with a dot)
